@@ -22,6 +22,7 @@
 - 실습 프로젝트 및 간단한 애플리케이션 예제
 - 실전 연습 문제 및 풀이
 
-## 내용 정리 링크
+## 문서 목록
 
-[XML 문서 주석 정리](./xml-doc-comments.md)
+- [XML 문서 주석 정리](./xml-doc-comments.md)
+- [Singleton Pattern 정리](./singleton-pattern.md)
