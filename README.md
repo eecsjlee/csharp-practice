@@ -23,6 +23,7 @@ Visual Studio에서 `README.md` 파일을 생성할 때, 일부 환경에서는 
 - [WinForms 학습 자료](./winforms/README.md)
 - [WPF 학습 자료](./wpf/README.md)
 - [SQL-Server](./sql-server/README.md)
+- [파일 복사 설정 (CopyToOutputDirectory)](csproj/copy-to-output.md)
 
 ## 참고자료
 
